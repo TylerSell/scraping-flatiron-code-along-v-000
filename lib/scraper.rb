@@ -17,7 +17,7 @@ class Scraper
   end
   
   def get_page 
-    
+    doc = 
   end
   
   def get_courses 
@@ -25,10 +25,6 @@ class Scraper
   end
   
   def make_courses
-    
-  end
-  
-  def print_courses
     
   end
   
